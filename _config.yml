@@ -1,0 +1,63 @@
+name: GOD'S PROPERTY
+layout_spectrum: 0.03877218491561096
+typography_spectrum: 0.8440001949031087
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.28673454008465804
+  lightness: 0.6747025511176297
+  saturation: 0.6524635869782627
+  rhythmicContrast: 0.9955246930939988
+title: GODS PROPERTY
+description: ''
+author: {}
+content_rating:
+  adult: false
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FUXssn8_LMrA%3Fstart%3D38%26feature%3Doembed%26start%3D38&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUXssn8_LMrA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FUXssn8_LMrA%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      '@type': VideoObject
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=UXssn8_LMrA&t=38s'
+      inLanguage: en
+      keywords:
+        - 360productions
+        - duration
+        - views
+        - video
+        - mike
+        - offical
+        - bankroll2
+        - mully
+        - macfrmda8
+        - promo
+      title: HORACE AND BRENDA SPADY 50TH ANNIVERSARY PRE SHOW
+      publisher:
+        name: YouTube
+        domain: www.youtube.com
+        url: 'https://www.youtube.com/'
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+      author:
+        - name: 360PRODUCTIONS
+          url: 'https://www.youtube.com/user/demondparker'
+          avatar: {}
+      starred: false
+      description: '@360PRODUCTIONS 360PRODUCTIONSBIZ@GMAIL.COM'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true
